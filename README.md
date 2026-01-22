@@ -1,4 +1,3 @@
-Görseldeki kalabalığı sadeleştirip daha modern, ikonlarla desteklenmiş ve "bir bakışta" her şeyi özetleyen bir tasarım hazırladım. Bu versiyon, projelerini daha profesyonel bir vitrin haline getirecektir.
 
 ---
 
